@@ -5,6 +5,8 @@
 
 body {
     background: url(https://www.solofondos.com/wp-content/uploads/2015/11/Fondos-para-p%C3%A1ginas-web.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: rgb(209, 202, 202);
 }
 
