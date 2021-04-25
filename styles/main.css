@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(https://www.solofondos.com/wp-content/uploads/2015/11/Fondos-para-p%C3%A1ginas-web.jpg);
+    color: rgb(209, 202, 202);
+}
+
+#main {
+    margin: 0px 210px 50px 225px;
+    text-align: center;
+}
+
+#tittle {
+    font-size: 4em;
+}
+
+#img-div {
+    margin: 40px 15px;
+    align-items: center;
+}
+
+#image {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
+#img-caption {
+    margin-top: 10px;
+    font-size: 1em;
+    font-family: monospace;
+}
+
+#tribute-info {
+    margin: 0px 210px 0px 225px;
+    line-height: 1.5em;
+    font-family: arial;
+}
+
+#tribute-info ul li{
+    text-align: justify;
+}
+
+#tribute-link, a {
+    color: white;
+    margin-bottom: 50px;
+}
